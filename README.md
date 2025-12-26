@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydHN4a3oxcnVobjF2Nm43b213bjZ4NGdrdnJpbjFyMW02anBvZjRmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100"/>
-</div>
-## Hi there 👋
-**dsklyn/dsklyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Introduction
 Skills
 Socials
